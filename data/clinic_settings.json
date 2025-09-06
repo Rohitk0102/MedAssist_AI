@@ -1,0 +1,15 @@
+[
+  {
+    "clinic_name": "MedAssist Medical Clinic",
+    "address": "123 Medical Drive, Healthcare City, HC 12345",
+    "phone": "(555) 123-4567",
+    "email": "info@medassist.com",
+    "timezone": "America/New_York",
+    "reminder_hours_before": 24,
+    "confirmation_hours_before": 2,
+    "no_show_threshold": 3,
+    "auto_reschedule_enabled": true,
+    "insurance_verification_required": true,
+    "cancellation_policy_hours": 24
+  }
+]

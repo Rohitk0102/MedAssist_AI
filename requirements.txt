@@ -1,0 +1,37 @@
+# Medical Appointment Scheduling AI Agent - Dependencies
+# Core dependencies
+google-adk>=0.1.0
+python-dateutil>=2.8.2
+
+# Data handling
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Database and storage
+# sqlite3 is built-in with Python
+
+# Email and notifications (optional - for production use)
+# smtplib is built-in with Python
+twilio>=8.0.0  # For SMS notifications
+
+# Analytics and reporting
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Development and testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+black>=22.0.0
+flake8>=5.0.0
+
+# Configuration management
+python-dotenv>=1.0.0
+pyyaml>=6.0
+
+# Logging
+loguru>=0.6.0
+
+# Date and time handling
+pytz>=2022.7
+ 
+# Note: Do NOT list built-in modules (json, uuid, random, sqlite3, smtplib)

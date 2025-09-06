@@ -1,0 +1,73 @@
+# Medical Appointment Scheduling AI Agent - Environment Configuration
+# Copy this file to .env and update the values as needed
+
+# Environment
+ENVIRONMENT=development
+
+# Database
+DATABASE_DIR=data
+DATABASE_BACKUP_ENABLED=true
+DATABASE_BACKUP_INTERVAL_HOURS=24
+
+# AI Agent
+AGENT_MODEL=gemini-2.0-flash
+AGENT_NAME=medassist_ai_agent
+
+# Clinic Information
+CLINIC_NAME=MedAssist Medical Clinic
+CLINIC_ADDRESS=123 Medical Street, Mumbai, Maharashtra 400001
+CLINIC_PHONE=+91-22-12345678
+CLINIC_EMAIL=originalgangstar9963@gmail.com
+CLINIC_TIMEZONE=Asia/Kolkata
+
+# Notifications
+EMAIL_ENABLED=false
+SMS_ENABLED=false
+PHONE_CALLS_ENABLED=false
+
+# Email Configuration (if EMAIL_ENABLED=true)
+SMTP_SERVER=smtp.gmail.com
+SMTP_PORT=587
+SMTP_USERNAME=originalgangstar9963@gmail.com
+SMTP_PASSWORD=your-app-password
+
+# SMS Configuration (if SMS_ENABLED=true)
+TWILIO_ACCOUNT_SID=your-twilio-account-sid
+TWILIO_AUTH_TOKEN=your-twilio-auth-token
+TWILIO_PHONE_NUMBER=+1234567890
+
+# Reminder Settings
+DEFAULT_REMINDER_HOURS=24
+DEFAULT_CONFIRMATION_HOURS=2
+MAX_REMINDER_ATTEMPTS=3
+
+# No-Show Prediction
+NO_SHOW_RISK_THRESHOLD=0.6
+HIGH_RISK_PATIENT_THRESHOLD=3
+
+# Insurance Verification
+INSURANCE_VERIFICATION_REQUIRED=true
+AUTO_VERIFY_INSURANCE=true
+
+# Analytics
+ANALYTICS_RETENTION_DAYS=365
+REPORT_GENERATION_ENABLED=true
+
+# Security
+ENCRYPT_PATIENT_DATA=false
+AUDIT_LOG_ENABLED=true
+
+# Performance
+MAX_CONCURRENT_OPERATIONS=10
+CACHE_ENABLED=true
+CACHE_TTL_SECONDS=300
+
+# Logging
+LOG_LEVEL=INFO
+LOG_FILE=logs/medassist.log
+LOG_MAX_SIZE_MB=10
+LOG_BACKUP_COUNT=5
+
+# Additional Settings
+AUTO_RESCHEDULE_ENABLED=true
+CANCELLATION_POLICY_HOURS=24

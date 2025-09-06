@@ -1,0 +1,90 @@
+[
+  {
+    "patient_id": "4cab559b-b617-4cdb-89f4-a5e04943c2f3",
+    "appointment_id": "574f8bf5-f134-4eec-8ee2-25b876a27441",
+    "risk_score": 0.175,
+    "risk_factors": [],
+    "prediction_date": "2025-09-05T11:41:18.419322"
+  },
+  {
+    "patient_id": "0c3756fd-7adc-40d0-9de0-97114fe456a2",
+    "appointment_id": "517e3c40-5b58-4b08-9daa-e7002acbd949",
+    "risk_score": 0.185,
+    "risk_factors": [],
+    "prediction_date": "2025-09-05T11:41:18.419692"
+  },
+  {
+    "patient_id": "0ad9109c-0c91-4993-ad5f-6cde01b7e1f8",
+    "appointment_id": "61c06482-7aff-40a2-86bd-b0cee70fab49",
+    "risk_score": 0.165,
+    "risk_factors": [
+      "Insurance/financial concerns"
+    ],
+    "prediction_date": "2025-09-05T11:41:18.419929"
+  },
+  {
+    "patient_id": "2e7ff967-150c-4c26-a70c-0e25388b55da",
+    "appointment_id": "3021514d-bd79-44e7-8af8-fbb7cf0ab317",
+    "risk_score": 0.175,
+    "risk_factors": [],
+    "prediction_date": "2025-09-05T11:41:49.777345"
+  },
+  {
+    "patient_id": "222d4c31-7158-4b04-a29e-699b2423ef6c",
+    "appointment_id": "e12d7a51-c24e-4274-b685-f3f79b72a437",
+    "risk_score": 0.21,
+    "risk_factors": [],
+    "prediction_date": "2025-09-05T11:41:49.777873"
+  },
+  {
+    "patient_id": "c82a428b-69b1-4e90-b2f4-8f30406c71cf",
+    "appointment_id": "d95db870-dd3e-47f9-8e58-bb02a7978558",
+    "risk_score": 0.165,
+    "risk_factors": [
+      "Insurance/financial concerns"
+    ],
+    "prediction_date": "2025-09-05T11:41:49.778175"
+  },
+  {
+    "patient_id": "a19e14c9-864d-4cbe-85e2-0137488dd62a",
+    "appointment_id": "028738b0-5fd9-456d-a9bf-239b02d6b06a",
+    "risk_score": 0.175,
+    "risk_factors": [],
+    "prediction_date": "2025-09-05T11:41:49.779774"
+  },
+  {
+    "patient_id": "b8448b4f-d49c-4de6-ae9f-aacfe488be19",
+    "appointment_id": "bda1afb1-35e8-4fe1-a895-1fb85ce2a764",
+    "risk_score": 0.175,
+    "risk_factors": [],
+    "prediction_date": "2025-09-05T11:41:49.780142"
+  },
+  {
+    "patient_id": "8977da3d-e1e5-4a11-87dc-6d46aebda338",
+    "appointment_id": "9976094c-70fc-416d-94ea-f8ab299d8f25",
+    "risk_score": 0.175,
+    "risk_factors": [],
+    "prediction_date": "2025-09-05T11:43:09.621788"
+  },
+  {
+    "patient_id": "30be8266-bb7b-4ec4-9c4e-889c94fe0df5",
+    "appointment_id": "3ede3e36-f269-4d89-89a9-ce427f2b1749",
+    "risk_score": 0.175,
+    "risk_factors": [],
+    "prediction_date": "2025-09-05T11:43:09.622769"
+  },
+  {
+    "patient_id": "302fecc9-ecd1-4a7b-b0d5-950b3ff986a1",
+    "appointment_id": "4c42fd64-c3f5-4f5c-bc77-502b653798d7",
+    "risk_score": 0.175,
+    "risk_factors": [],
+    "prediction_date": "2025-09-05T11:43:09.623075"
+  },
+  {
+    "patient_id": "009bcd05-209d-44f9-86d4-dacaacf24558",
+    "appointment_id": "f6a988e4-72db-4496-8a57-6ea0748375c9",
+    "risk_score": 0.175,
+    "risk_factors": [],
+    "prediction_date": "2025-09-05T11:43:09.623371"
+  }
+]

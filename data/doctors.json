@@ -1,0 +1,179 @@
+[
+  {
+    "id": "test_doc",
+    "first_name": "Test",
+    "last_name": "Doctor",
+    "specialty": "General Practice",
+    "phone": "555-0001",
+    "email": "test@doctor.com",
+    "working_hours": {
+      "monday": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "tuesday": {
+        "start": "09:00",
+        "end": "17:00"
+      }
+    },
+    "appointment_duration": 30,
+    "max_patients_per_day": 20,
+    "is_active": true
+  },
+  {
+    "id": "doc_001",
+    "first_name": "Sarah",
+    "last_name": "Johnson",
+    "specialty": "Internal Medicine",
+    "phone": "(555) 123-4567",
+    "email": "sarah.johnson@medassist.com",
+    "working_hours": {
+      "monday": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "tuesday": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "wednesday": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "thursday": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "friday": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "saturday": {
+        "start": "10:00",
+        "end": "14:00"
+      },
+      "sunday": {
+        "start": "10:00",
+        "end": "12:00"
+      }
+    },
+    "appointment_duration": 30,
+    "max_patients_per_day": 20,
+    "is_active": true
+  },
+  {
+    "id": "doc_002",
+    "first_name": "Michael",
+    "last_name": "Chen",
+    "specialty": "Cardiology",
+    "phone": "(555) 123-4568",
+    "email": "michael.chen@medassist.com",
+    "working_hours": {
+      "monday": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "tuesday": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "wednesday": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "thursday": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "friday": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "saturday": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "sunday": {
+        "start": "09:00",
+        "end": "11:00"
+      }
+    },
+    "appointment_duration": 45,
+    "max_patients_per_day": 15,
+    "is_active": true
+  },
+  {
+    "id": "doc_003",
+    "first_name": "Emily",
+    "last_name": "Rodriguez",
+    "specialty": "Pediatrics",
+    "phone": "(555) 123-4569",
+    "email": "emily.rodriguez@medassist.com",
+    "working_hours": {
+      "monday": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "tuesday": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "wednesday": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "thursday": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "friday": {
+        "start": "09:00",
+        "end": "16:00"
+      },
+      "saturday": {
+        "start": "10:00",
+        "end": "15:00"
+      },
+      "sunday": {
+        "start": "10:00",
+        "end": "12:00"
+      }
+    },
+    "appointment_duration": 30,
+    "max_patients_per_day": 25,
+    "is_active": true
+  },
+  {
+    "id": "demo_doc",
+    "first_name": "Demo",
+    "last_name": "Doctor",
+    "specialty": "General Practice",
+    "phone": "(555) 123-4568",
+    "email": "demo@doctor.com",
+    "working_hours": {
+      "monday": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "tuesday": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "wednesday": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "thursday": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "friday": {
+        "start": "09:00",
+        "end": "17:00"
+      }
+    },
+    "appointment_duration": 30,
+    "max_patients_per_day": 20,
+    "is_active": true
+  }
+]
